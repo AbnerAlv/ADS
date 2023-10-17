@@ -4,6 +4,11 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
 }
+h1{
+    margin: auto;
+    font-style: normal;
+    
+}
 div.paragrafo{
     margin: auto;
     width: 80%;
